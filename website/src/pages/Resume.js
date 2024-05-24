@@ -1,4 +1,4 @@
-// src/pages/Resume.js
+
 
 import React from 'react';
 import './Resume.css'; 
